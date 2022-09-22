@@ -3,7 +3,7 @@ public class Polynomial {
 	double[] coef;
 
 	public Polynomial() {
-		this.coef = new double[0];
+		this.coef = new double[1];
 	}
 
 	public Polynomial(double[] coef) {
